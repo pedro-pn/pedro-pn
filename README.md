@@ -1,7 +1,7 @@
 # Intro
 - 👋 Hi, I’m Pedro Paulo
 - 👀 I’m interested in programming, chemistry, knitting and carnivorous plants!
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, HTML, CSS and TypeScript.
 - 📫 You can reach me by e-mail!
 
 ## Tools
