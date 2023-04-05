@@ -1,7 +1,7 @@
 # Intro
 - 👋 Hi, I’m Pedro Paulo
 - 👀 I’m interested in programming, chemistry, knitting and carnivorous plants!
-- 🌱 I’m currently learning C, HTML, CSS and TypeScript.
+- 🌱 I’m currently learning C, C++ and C#.
 - 📫 You can reach me by e-mail!
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-pn&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
